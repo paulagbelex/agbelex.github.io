@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>First page</title>
+<link rel="icon" type="image/x-icon" href="/Users/aaaaaa/Desktop/project/favicon.ico">
+<style>
+    p {
+        background-image: url("/Users/aaaaaa/Downloads/golfcourt.jpg");
+    }
+    th, td {
+        border: 1px solid black;
+        border-radius: 10px;
+        background-color: aqua;
+    }
+</style>
+
+</head>
+<body>
+<h1 style="text-align: center; font-size: 60px;">
+    All About Sports
+</h1>
+<p style="font-size: larger;">This is a page that talks about sports.<br>Sport pertains to any form of competitive physical activity or game that aims to use, maintain, or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators. Sports can, through casual or organized participation, improve one's physical health.</p>
+<a href="https://www.sportsblog.com/">visit sportblog for exclusive details.</a>
+<h2>golf court</h2>
+<p>image showing the golf court.</p>
+<img src="/Users/aaaaaa/Downloads/golfcourt.jpg" width="400" height="400">
+
+<table style="width: 100%;">
+    <tr>
+        <th>GOLF</th>
+        <th>HOCKEY</th>
+        <th>SWIMMING</th>
+    </tr>
+    <tr>
+        <td>AGBELEX</td>
+        <td>PAUL</td>
+        <td>OLUWABUNMI</td>
+    </tr>
+    <tr>
+        <td>100</td>
+        <td>90</td>
+        <td>99</td>
+    </tr>
+</table>
+
+</body>
+</html>
